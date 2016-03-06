@@ -12,7 +12,6 @@ bin/lpmkey
 bin/playlpm
 
 #Other
-bin/get_macaddrs
 bin/gpu_dcvsd
 bin/mpdecision
 bin/qosmgr
@@ -34,5 +33,4 @@ etc/param.dat
 etc/thermald-8x25-msm1-pmic_therm.conf
 etc/thermald-8x25-msm2-msm_therm.conf
 etc/thermald-8x25-msm2-pmic_therm.conf
-etc/thermald-8x25q-msm2-msm_therm.conf
 etc/vold.fstab
